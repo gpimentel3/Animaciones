@@ -1,0 +1,11 @@
+body{
+    background: #aaa;
+  }
+  canvas{
+    position: relative;
+    background: #111;
+    max-width: 100%;
+    display: block;
+    margin: auto;
+    top: 40px;
+  }
